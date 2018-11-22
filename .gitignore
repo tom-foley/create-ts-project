@@ -1,0 +1,5 @@
+node_modules/
+*.js
+*/**.js
+*.js.map
+*/**.js.map
