@@ -1,4 +1,4 @@
-Creates a TypeScript project with preferred defaults for compilation configuration and a few helpful task/launch configurations for common user actions.
+Creates a TypeScript project with opinionated defaults for compilation configuration and a few helpful task/launch configurations for common user actions.
 
 Local PC installation:
 - Clone this project to somewhere on your local PC
