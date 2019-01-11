@@ -13,7 +13,7 @@
     "create-ts-project": "./bin/global.js"
   },
   "preferGlobal": true,
-  "dependencies": {
+  "devDependencies": {
     "@types/node": "^10.12.10",
     "typescript": "^3.1.6"
   }
